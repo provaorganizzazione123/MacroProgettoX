@@ -1,0 +1,29 @@
+Elemento[
+{elemento1 nome: titolo;
+ elemento1 descrizione: descrizione;
+},
+{
+	[
+	
+	]
+}
+]
+
+
+
+Devo partire da un nodo principale,
+Elementi associati direttamente al progetto
+come utente vorrei poter vedere una visualizzazione della mappa di default 
+vorrei poter vedere solo il progetto e alcune funzioni associate.
+QUINDI FILTRARE GLI ELEMENTI CHE VEDO NELLA MAPPA;
+
+
+
+mok-moc;
+
+accendere tutti gli elementi associati quando clicco su un elemento;
+
+sudividere anche nei contenitori per dare ordine;
+
+selezionare quale è il nodo centrale;
+
